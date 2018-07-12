@@ -1,5 +1,4 @@
 package recognizetext.recognizetext;
-
 import android.content.Intent;
 import android.graphics.Bitmap;
 import android.graphics.Point;
@@ -12,7 +11,6 @@ import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
-
 import com.google.android.gms.tasks.OnFailureListener;
 import com.google.android.gms.tasks.OnSuccessListener;
 import com.google.firebase.ml.vision.FirebaseVision;
